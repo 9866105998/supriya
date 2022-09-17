@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_logo_final.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\app_logo_final.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_milk1.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\milk1.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beverages.jpg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\beverages.jpg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orders.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\orders.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_confirmed.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\confirmed.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placed.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\placed.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_items_layout.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\cart_items_layout.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homecare.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\homecare.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_whole_saler2.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_whole_saler2.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fruits1.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\fruits1.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_applogo.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\applogo.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_fragment.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\cart_fragment.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_buttons.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\round_buttons.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_wholesale.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\app_bar_wholesale.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_retailer.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\content_retailer.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_signup1.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\signup1.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_cart.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\nav_cart.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_logout_fragment.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\logout_fragment.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bakerydairyeggs.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\bakerydairyeggs.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_status.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_order_status.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_status_layout.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\order_status_layout.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delivery.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\delivery.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_tracking.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_order_tracking.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirm_final_order.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_confirm_final_order.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_product.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_search_product.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vegetables1.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\vegetables1.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_status_completed.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\shape_status_completed.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_delete.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_delete.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vegetables.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\vegetables.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_fragment.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\settings_fragment.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo2.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation_wholesale.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\navigation\\mobile_navigation_wholesale.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\category.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_items_layout_1.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\items_layout_1.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_customer.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\customer.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_customer.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\menu\\customer.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dairy.jpg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\dairy.jpg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_new_product.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_add_new_product.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grocery.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\grocery.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wholesaler.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\wholesaler.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fb_login.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\fb_login.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_retailer_drawer.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\menu\\activity_retailer_drawer.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oils.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\oils.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_customer.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_google_map.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_google_map.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sign_in.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\sign_in.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_personalcare.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\personalcare.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_status_remaining.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\shape_status_remaining.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_acad_campus.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\acad_campus.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_milk.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\milk.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beverages1.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\beverages1.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_snow.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\snow.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_retailer.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_delete_details.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_delete_details.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_signup.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\signup.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_petcare.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\petcare.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_orders.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_new_orders.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_items_layout.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\items_layout.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_categories_fragment.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\categories_fragment.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_status_current.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\shape_status_current.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_retailer.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\nav_header_retailer.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_social_sites_login.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_social_sites_login.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttons_wholesale.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\buttons_wholesale.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttons.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\buttons.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_design.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\input_design.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cafe.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\cafe.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation_retailer.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\navigation\\mobile_navigation_retailer.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_o_t_p.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_o_t_p.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gmail_signin.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\gmail_signin.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wholesaler_back.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\wholesaler_back.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\cart.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_popwindow.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_popwindow.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hygiene.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\hygiene.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login1.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\login1.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_track_order.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_track_order.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logofoodapp.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\logofoodapp.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepage.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\homepage.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_snacks.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\snacks.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_wholesale.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\nav_header_wholesale.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_babycare.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\babycare.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_campus_darks.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\campus_darks.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_wholesale.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\content_wholesale.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feedback.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ready.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\ready.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_retailer.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\app_bar_retailer.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_orders_layout.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\orders_layout.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_track.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_order_track.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_processed.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\processed.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_orders_fragment.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\orders_fragment.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\box.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment_gateway.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_payment_gateway.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drop_shadow.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\drop_shadow.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foodapp.png.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\foodapp.png"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_wholesale_drawer.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\menu\\activity_wholesale_drawer.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_categories.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_categories.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_campus.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\campus.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_categories_layout.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\categories_layout.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\black.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fruits.jpeg.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\drawable\\fruits.jpeg"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_wholesaler.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\menu\\wholesaler.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_track_order.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\track_order.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_details.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\ANDROIDM\\FoodApp-Grocery-System-master\\FoodApp-Grocery-System-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    }
+]
