@@ -1,0 +1,521 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.food_app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the "MyLocation" functionality.
+14    -->
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:10:5-79
+15-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:11:5-67
+16-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:11:22-64
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:12:5-80
+17-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:12:22-77
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:13:5-81
+18-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:13:22-78
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:24:5-79
+19-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:24:22-76
+20
+21    <uses-feature
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\d9a7a5ade5772b5f380a98b30bbdc236\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+22        android:glEsVersion="0x00020000"
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\d9a7a5ade5772b5f380a98b30bbdc236\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+23        android:required="true" />
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\d9a7a5ade5772b5f380a98b30bbdc236\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+24
+25    <uses-permission android:name="android.permission.WAKE_LOCK" />
+25-->[com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f3ed86b3f0f3a2a85282ad9ced173daa\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:24:5-68
+25-->[com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f3ed86b3f0f3a2a85282ad9ced173daa\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:24:22-65
+26    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+26-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:26:5-110
+26-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:26:22-107
+27
+28    <application
+28-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:15:5-88:19
+29        android:allowBackup="true"
+29-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:16:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.3.1] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\0fd693cbeda8be952cfd72e782f62993\core-1.3.1\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:extractNativeLibs="false"
+33        android:icon="@mipmap/ic_launcher"
+33-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:17:9-43
+34        android:installLocation="preferExternal"
+34-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:18:9-49
+35        android:label="@string/app_name"
+35-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:19:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:20:9-54
+37        android:supportsRtl="true"
+37-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:21:9-35
+38        android:testOnly="true"
+39        android:theme="@style/AppTheme"
+39-->[com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\02405ad17a1f88746d9fe956ac272ce5\jetified-lib-1.0.2\AndroidManifest.xml:16:9-40
+40        android:usesCleartextTraffic="true" >
+40-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:22:9-44
+41        <activity android:name="com.example.food_app.PaymentGateway" />
+41-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:24:9-61
+41-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:24:19-49
+42        <activity android:name="com.example.food_app.SearchProductActivity" />
+42-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:25:9-59
+42-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:25:19-56
+43        <activity android:name="com.example.food_app.WholeSaler" />
+43-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:26:9-48
+43-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:26:19-45
+44        <activity android:name="com.example.food_app.feedbackActivity" />
+44-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:27:9-54
+44-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:27:19-51
+45        <activity android:name="com.example.food_app.trackOrderActivity" />
+45-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:28:9-56
+45-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:28:19-53
+46        <activity android:name="com.example.food_app.OrderStatusActivity" />
+46-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:29:9-57
+46-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:29:19-54
+47        <activity android:name="com.example.food_app.DeleteDetailsActivity" />
+47-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:30:9-59
+47-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:30:19-56
+48        <activity android:name="com.example.food_app.DeleteActivity" />
+48-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:31:9-52
+48-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:31:19-49
+49        <activity android:name="com.example.food_app.NewOrdersActivity" />
+49-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:32:9-55
+49-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:32:19-52
+50        <activity android:name="com.example.food_app.CategoriesActivity" />
+50-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:33:9-56
+50-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:33:19-53
+51        <activity android:name="com.example.food_app.ConfirmFinalOrderActivity" />
+51-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:34:9-63
+51-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:34:19-60
+52        <activity android:name="com.example.food_app.CartActivity" />
+52-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:35:9-50
+52-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:35:19-47
+53        <activity android:name="com.example.food_app.ProductDetailsActivity" />
+53-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:36:9-60
+53-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:36:19-57
+54        <activity android:name="com.example.food_app.Order_Retailer_buy" />
+54-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:37:9-56
+54-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:37:19-53
+55        <activity android:name="com.example.food_app.SettinsActivity" />
+55-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:38:9-53
+55-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:38:19-50
+56        <activity android:name="com.example.food_app.home" />
+56-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:39:9-42
+56-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:39:19-39
+57        <activity android:name="com.example.food_app.OrderTracking" />
+57-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:40:9-51
+57-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:40:19-48
+58        <activity
+58-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:41:9-50:20
+59            android:name="com.example.food_app.Customer"
+59-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:42:13-37
+60            android:label="@string/title_activity_customer"
+60-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:43:13-60
+61            android:theme="@style/Theme.Food_app.NoActionBar" >
+61-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:44:13-62
+62            <intent-filter>
+62-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:45:13-49:29
+63                <action android:name="package.name.Customer" />
+63-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:46:17-64
+63-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:46:25-61
+64
+65                <category android:name="android.intent.category.DEFAULT" />
+65-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:48:17-76
+65-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:48:27-73
+66            </intent-filter>
+67        </activity>
+68        <activity android:name="com.example.food_app.popwindow" />
+68-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:51:9-47
+68-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:51:19-44
+69        <activity android:name="com.example.food_app.AddNewProduct" />
+69-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:52:9-51
+69-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:52:19-48
+70        <activity android:name="com.example.food_app.Retailer" />
+70-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:53:9-46
+70-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:53:19-43
+71        <activity android:name="com.example.food_app.GoogleMap" />
+71-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:54:9-47
+71-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:54:19-44
+72        <activity
+72-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:55:9-57:72
+73            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+73-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:56:13-76
+74            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+74-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:57:13-69
+75        <!--
+76             The API key for Google Maps-based APIs is defined as a string resource.
+77             (See the file "res/values/google_maps_api.xml").
+78             Note that the API key is linked to the encryption key used to sign the APK.
+79             You need a different API key for each encryption key, including the release key that is used to
+80             sign the APK for publishing.
+81             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+82        -->
+83        <meta-data
+83-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:66:9-68:71
+84            android:name="com.google.android.geo.API_KEY"
+84-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:67:13-58
+85            android:value="AIzaSyBJ6n71KZeM7UJdM6sXmKzYvHLf0BeezsY" />
+85-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:68:13-68
+86        <meta-data
+86-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:69:9-71:69
+87            android:name="com.google.android.gms.version"
+87-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:70:13-58
+88            android:value="@integer/google_play_services_version" />
+88-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:71:13-66
+89
+90        <activity android:name="com.example.food_app.social_sitesLogin" />
+90-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:73:9-55
+90-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:73:19-52
+91        <activity android:name="com.example.food_app.dashboard" />
+91-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:74:9-47
+91-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:74:19-44
+92        <activity android:name="com.example.food_app.OTP" />
+92-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:75:9-41
+92-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:75:19-38
+93        <activity android:name="com.example.food_app.login" />
+93-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:76:9-43
+93-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:76:19-40
+94        <activity android:name="com.example.food_app.MainActivity" >
+94-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:77:9-83:20
+94-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:77:19-47
+95            <intent-filter>
+95-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:78:13-82:29
+96                <action android:name="android.intent.action.MAIN" />
+96-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:79:17-69
+96-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:79:25-66
+97
+98                <category android:name="android.intent.category.LAUNCHER" />
+98-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:81:17-77
+98-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:81:27-74
+99            </intent-filter>
+100        </activity>
+101
+102        <meta-data
+102-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:85:9-87:55
+103            android:name="com.facebook.sdk.ApplicationId"
+103-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:86:13-58
+104            android:value="@string/facebook_app_id" />
+104-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:87:13-52
+105
+106        <activity
+106-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:27:9-44:20
+107            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+107-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:28:13-80
+108            android:excludeFromRecents="true"
+108-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:29:13-46
+109            android:exported="true"
+109-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:30:13-36
+110            android:launchMode="singleTask"
+110-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:31:13-44
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+111-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:32:13-72
+112            <intent-filter>
+112-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:33:13-43:29
+113                <action android:name="android.intent.action.VIEW" />
+113-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:34:17-69
+113-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:34:25-66
+114
+115                <category android:name="android.intent.category.DEFAULT" />
+115-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:48:17-76
+115-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:48:27-73
+116                <category android:name="android.intent.category.BROWSABLE" />
+116-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:37:17-78
+116-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:37:27-75
+117
+118                <data
+118-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:39:17-42:51
+119                    android:host="firebase.auth"
+119-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:40:21-49
+120                    android:path="/"
+120-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:41:21-37
+121                    android:scheme="genericidp" />
+121-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:42:21-48
+122            </intent-filter>
+123        </activity>
+124        <activity
+124-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:45:9-62:20
+125            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+125-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:46:13-79
+126            android:excludeFromRecents="true"
+126-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:47:13-46
+127            android:exported="true"
+127-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:48:13-36
+128            android:launchMode="singleTask"
+128-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:49:13-44
+129            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+129-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:50:13-72
+130            <intent-filter>
+130-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:51:13-61:29
+131                <action android:name="android.intent.action.VIEW" />
+131-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:34:17-69
+131-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:34:25-66
+132
+133                <category android:name="android.intent.category.DEFAULT" />
+133-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:48:17-76
+133-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:48:27-73
+134                <category android:name="android.intent.category.BROWSABLE" />
+134-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:37:17-78
+134-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:37:27-75
+135
+136                <data
+136-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:39:17-42:51
+137                    android:host="firebase.auth"
+137-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:40:21-49
+138                    android:path="/"
+138-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:41:21-37
+139                    android:scheme="recaptcha" />
+139-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:42:21-48
+140            </intent-filter>
+141        </activity>
+142
+143        <service
+143-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:64:9-73:19
+144            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+144-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:65:13-101
+145            android:enabled="true"
+145-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:66:13-35
+146            android:exported="false" >
+146-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:67:13-37
+147            <intent-filter>
+147-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:68:13-72:29
+148                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+148-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:69:17-89
+148-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:69:25-86
+149
+150                <category android:name="android.intent.category.DEFAULT" />
+150-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:48:17-76
+150-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:48:27-73
+151            </intent-filter>
+152        </service>
+153        <service
+153-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:74:9-80:19
+154            android:name="com.google.firebase.components.ComponentDiscoveryService"
+154-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:75:13-84
+155            android:directBootAware="true"
+155-->[com.google.firebase:firebase-common:19.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+156            android:exported="false" >
+156-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:76:13-37
+157            <meta-data
+157-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:77:13-79:85
+158                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+158-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:78:17-109
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:79:17-82
+160            <meta-data
+160-->[com.google.firebase:firebase-database:19.7.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:32:13-34:85
+161                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+161-->[com.google.firebase:firebase-database:19.7.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:33:17-109
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->[com.google.firebase:firebase-database:19.7.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\24ac034c76dfb1b3647cba84ddb1672b\jetified-firebase-database-19.7.0\AndroidManifest.xml:34:17-82
+163            <meta-data
+163-->[com.google.firebase:firebase-storage:19.2.2] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\2463fd9af60315f94ca6b2e1beadb579\jetified-firebase-storage-19.2.2\AndroidManifest.xml:33:13-35:85
+164                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+164-->[com.google.firebase:firebase-storage:19.2.2] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\2463fd9af60315f94ca6b2e1beadb579\jetified-firebase-storage-19.2.2\AndroidManifest.xml:34:17-107
+165                android:value="com.google.firebase.components.ComponentRegistrar" />
+165-->[com.google.firebase:firebase-storage:19.2.2] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\2463fd9af60315f94ca6b2e1beadb579\jetified-firebase-storage-19.2.2\AndroidManifest.xml:35:17-82
+166            <meta-data
+166-->[com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f3ed86b3f0f3a2a85282ad9ced173daa\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:30:13-32:85
+167                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+167-->[com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f3ed86b3f0f3a2a85282ad9ced173daa\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:31:17-139
+168                android:value="com.google.firebase.components.ComponentRegistrar" />
+168-->[com.google.android.gms:play-services-measurement-api:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f3ed86b3f0f3a2a85282ad9ced173daa\jetified-play-services-measurement-api-18.0.3\AndroidManifest.xml:32:17-82
+169            <meta-data
+169-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e7656dc500e26d5985fed9d364afdc23\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+170                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+170-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e7656dc500e26d5985fed9d364afdc23\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+171                android:value="com.google.firebase.components.ComponentRegistrar" />
+171-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e7656dc500e26d5985fed9d364afdc23\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+172            <!--
+173                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+174                clients to use it as well, by defining this registrar in their own core/common library.
+175            -->
+176            <meta-data
+176-->[com.google.firebase:firebase-common:19.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+177                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+177-->[com.google.firebase:firebase-common:19.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+178                android:value="com.google.firebase.components.ComponentRegistrar" />
+178-->[com.google.firebase:firebase-common:19.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+179        </service>
+180
+181        <activity
+181-->[com.facebook.android:facebook-common:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\1c9328377d6d00e1620f8ae43a3bdc75\jetified-facebook-common-5.15.3\AndroidManifest.xml:30:9-33:66
+182            android:name="com.facebook.FacebookActivity"
+182-->[com.facebook.android:facebook-common:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\1c9328377d6d00e1620f8ae43a3bdc75\jetified-facebook-common-5.15.3\AndroidManifest.xml:31:13-57
+183            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+183-->[com.facebook.android:facebook-common:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\1c9328377d6d00e1620f8ae43a3bdc75\jetified-facebook-common-5.15.3\AndroidManifest.xml:32:13-96
+184            android:theme="@style/com_facebook_activity_theme" />
+184-->[com.facebook.android:facebook-common:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\1c9328377d6d00e1620f8ae43a3bdc75\jetified-facebook-common-5.15.3\AndroidManifest.xml:33:13-63
+185        <activity android:name="com.facebook.CustomTabMainActivity" />
+185-->[com.facebook.android:facebook-common:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\1c9328377d6d00e1620f8ae43a3bdc75\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:9-71
+185-->[com.facebook.android:facebook-common:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\1c9328377d6d00e1620f8ae43a3bdc75\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:19-68
+186        <activity
+186-->[com.facebook.android:facebook-common:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\1c9328377d6d00e1620f8ae43a3bdc75\jetified-facebook-common-5.15.3\AndroidManifest.xml:35:9-49:20
+187            android:name="com.facebook.CustomTabActivity"
+187-->[com.facebook.android:facebook-common:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\1c9328377d6d00e1620f8ae43a3bdc75\jetified-facebook-common-5.15.3\AndroidManifest.xml:36:13-58
+188            android:exported="true" >
+188-->[com.facebook.android:facebook-common:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\1c9328377d6d00e1620f8ae43a3bdc75\jetified-facebook-common-5.15.3\AndroidManifest.xml:37:13-36
+189            <intent-filter>
+189-->[com.facebook.android:facebook-common:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\1c9328377d6d00e1620f8ae43a3bdc75\jetified-facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
+190                <action android:name="android.intent.action.VIEW" />
+190-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:34:17-69
+190-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:34:25-66
+191
+192                <category android:name="android.intent.category.DEFAULT" />
+192-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:48:17-76
+192-->C:\ANDROIDM\FoodApp-Grocery-System-master\FoodApp-Grocery-System-master\app\src\main\AndroidManifest.xml:48:27-73
+193                <category android:name="android.intent.category.BROWSABLE" />
+193-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:37:17-78
+193-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:37:27-75
+194
+195                <data
+195-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:39:17-42:51
+196                    android:host="cct.com.example.food_app"
+196-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:40:21-49
+197                    android:scheme="fbconnect" />
+197-->[com.google.firebase:firebase-auth:20.0.4] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\908723cdec9cb99679fde0400ab416a0\jetified-firebase-auth-20.0.4\AndroidManifest.xml:42:21-48
+198            </intent-filter>
+199        </activity>
+200        <activity
+200-->[com.karumi:dexter:6.2.2] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\9d0255fefc783f6743c063db0d38b8f2\jetified-dexter-6.2.2\AndroidManifest.xml:27:9-29:72
+201            android:name="com.karumi.dexter.DexterActivity"
+201-->[com.karumi:dexter:6.2.2] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\9d0255fefc783f6743c063db0d38b8f2\jetified-dexter-6.2.2\AndroidManifest.xml:28:13-60
+202            android:theme="@style/Dexter.Internal.Theme.Transparent" /> <!-- Needs to be explicitly declared on P+ -->
+202-->[com.karumi:dexter:6.2.2] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\9d0255fefc783f6743c063db0d38b8f2\jetified-dexter-6.2.2\AndroidManifest.xml:29:13-69
+203        <uses-library
+203-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\d9a7a5ade5772b5f380a98b30bbdc236\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+204            android:name="org.apache.http.legacy"
+204-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\d9a7a5ade5772b5f380a98b30bbdc236\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+205            android:required="false" />
+205-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\d9a7a5ade5772b5f380a98b30bbdc236\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+206
+207        <activity
+207-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\3661d6e03c02dfb85a2d3c1c678ac711\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+208            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+208-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\3661d6e03c02dfb85a2d3c1c678ac711\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+209            android:excludeFromRecents="true"
+209-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\3661d6e03c02dfb85a2d3c1c678ac711\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+210            android:exported="false"
+210-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\3661d6e03c02dfb85a2d3c1c678ac711\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+211            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+211-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\3661d6e03c02dfb85a2d3c1c678ac711\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+212        <!--
+213            Service handling Google Sign-In user revocation. For apps that do not integrate with
+214            Google Sign-In, this service will never be started.
+215        -->
+216        <service
+216-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\3661d6e03c02dfb85a2d3c1c678ac711\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+217            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+217-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\3661d6e03c02dfb85a2d3c1c678ac711\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+218            android:exported="true"
+218-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\3661d6e03c02dfb85a2d3c1c678ac711\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+219            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+219-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\3661d6e03c02dfb85a2d3c1c678ac711\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+220            android:visibleToInstantApps="true" />
+220-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\3661d6e03c02dfb85a2d3c1c678ac711\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+221
+222        <provider
+222-->[com.squareup.picasso:picasso:2.71828] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6c609d0284bf9ba81687f71a968eead6\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+223            android:name="com.squareup.picasso.PicassoProvider"
+223-->[com.squareup.picasso:picasso:2.71828] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6c609d0284bf9ba81687f71a968eead6\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+224            android:authorities="com.example.food_app.com.squareup.picasso"
+224-->[com.squareup.picasso:picasso:2.71828] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6c609d0284bf9ba81687f71a968eead6\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+225            android:exported="false" />
+225-->[com.squareup.picasso:picasso:2.71828] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6c609d0284bf9ba81687f71a968eead6\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+226
+227        <activity
+227-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\24f8ec86389afd8fcb5eeae1d4388964\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+228            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+228-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\24f8ec86389afd8fcb5eeae1d4388964\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+229            android:exported="false"
+229-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\24f8ec86389afd8fcb5eeae1d4388964\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+230            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+230-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\24f8ec86389afd8fcb5eeae1d4388964\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+231
+232        <provider
+232-->[com.google.firebase:firebase-common:19.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+233            android:name="com.google.firebase.provider.FirebaseInitProvider"
+233-->[com.google.firebase:firebase-common:19.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+234            android:authorities="com.example.food_app.firebaseinitprovider"
+234-->[com.google.firebase:firebase-common:19.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+235            android:directBootAware="true"
+235-->[com.google.firebase:firebase-common:19.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+236            android:exported="false"
+236-->[com.google.firebase:firebase-common:19.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+237            android:initOrder="100" />
+237-->[com.google.firebase:firebase-common:19.5.0] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\6137949eb04c0baf7bc42e782c634fb9\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+238
+239        <receiver
+239-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:29:9-33:20
+240            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+240-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:30:13-85
+241            android:enabled="true"
+241-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:31:13-35
+242            android:exported="false" >
+242-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:32:13-37
+243        </receiver>
+244
+245        <service
+245-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:35:9-38:40
+246            android:name="com.google.android.gms.measurement.AppMeasurementService"
+246-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:36:13-84
+247            android:enabled="true"
+247-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:37:13-35
+248            android:exported="false" />
+248-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:38:13-37
+249        <service
+249-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:39:9-43:72
+250            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+250-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:40:13-87
+251            android:enabled="true"
+251-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:41:13-35
+252            android:exported="false"
+252-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:42:13-37
+253            android:permission="android.permission.BIND_JOB_SERVICE" />
+253-->[com.google.android.gms:play-services-measurement:18.0.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\f83ce91f13b53436735a375e77430afc\jetified-play-services-measurement-18.0.3\AndroidManifest.xml:43:13-69
+254        <!--
+255         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+256         with the application context. This config is merged in with the host app's manifest,
+257         but there can only be one provider with the same authority activated at any given
+258         point; so if the end user has two or more different apps that use Facebook SDK, only the
+259         first one will be able to use the provider. To work around this problem, we use the
+260         following placeholder in the authority to identify each host application as if it was
+261         a completely different provider.
+262        -->
+263        <provider
+263-->[com.facebook.android:facebook-core:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e73faf3aa7adb20b8ba80bd036ee6a5e\jetified-facebook-core-5.15.3\AndroidManifest.xml:39:9-42:40
+264            android:name="com.facebook.internal.FacebookInitProvider"
+264-->[com.facebook.android:facebook-core:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e73faf3aa7adb20b8ba80bd036ee6a5e\jetified-facebook-core-5.15.3\AndroidManifest.xml:40:13-70
+265            android:authorities="com.example.food_app.FacebookInitProvider"
+265-->[com.facebook.android:facebook-core:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e73faf3aa7adb20b8ba80bd036ee6a5e\jetified-facebook-core-5.15.3\AndroidManifest.xml:41:13-72
+266            android:exported="false" />
+266-->[com.facebook.android:facebook-core:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e73faf3aa7adb20b8ba80bd036ee6a5e\jetified-facebook-core-5.15.3\AndroidManifest.xml:42:13-37
+267
+268        <receiver
+268-->[com.facebook.android:facebook-core:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e73faf3aa7adb20b8ba80bd036ee6a5e\jetified-facebook-core-5.15.3\AndroidManifest.xml:44:9-50:20
+269            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+269-->[com.facebook.android:facebook-core:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e73faf3aa7adb20b8ba80bd036ee6a5e\jetified-facebook-core-5.15.3\AndroidManifest.xml:45:13-86
+270            android:exported="false" >
+270-->[com.facebook.android:facebook-core:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e73faf3aa7adb20b8ba80bd036ee6a5e\jetified-facebook-core-5.15.3\AndroidManifest.xml:46:13-37
+271            <intent-filter>
+271-->[com.facebook.android:facebook-core:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e73faf3aa7adb20b8ba80bd036ee6a5e\jetified-facebook-core-5.15.3\AndroidManifest.xml:47:13-49:29
+272                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+272-->[com.facebook.android:facebook-core:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e73faf3aa7adb20b8ba80bd036ee6a5e\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:17-95
+272-->[com.facebook.android:facebook-core:5.15.3] C:\Users\anu\.gradle\caches\transforms-2\files-2.1\e73faf3aa7adb20b8ba80bd036ee6a5e\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:25-92
+273            </intent-filter>
+274        </receiver>
+275    </application>
+276
+277</manifest>
